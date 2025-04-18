@@ -16,12 +16,12 @@ body {
 .hero {
     background: linear-gradient(135deg, #4a47a3, #6a57d5);
     color: white;
-    padding: 60px 0;
+    padding: 100px 0;
     text-align: center;
 }
 
 #home-banner{
-    background-image: url('img/home-banner.jpg');
+    background-image: url('img/home-baner.png');
 }
 
 .btn-primary {
